@@ -1,1 +1,1 @@
-##LINK PARA DOWNLOAD DO GIT: https://git-scm.com/downloads
+LINK PARA DOWNLOAD DO GIT: https://git-scm.com/downloads
