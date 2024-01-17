@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Alguns comandos do GIT 
 
 - GIT CLONE: Comando para baixar o código-fonte existente de um reposito.
@@ -17,3 +18,6 @@ Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos
 
 
 
+=======
+LINK PARA DOWNLOAD DO GIT: https://git-scm.com/downloads
+>>>>>>> 547ba8549821d80a94e9b5c8efad0bc72ba398be

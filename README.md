@@ -38,8 +38,11 @@ Repositório criado para o Desafio de projeto sobre Git/Github
 ###  
 
 ## Links úteis
-[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [GIT]([Git (git-scm.com)](https://git-scm.com/))
 
 [Comandos do GIT]([Comandos Git - Aprenda Git do básico ao avançado](https://comandosgit.github.io/))
+
+[Download do Git](https://git-scm.com/downloads)
