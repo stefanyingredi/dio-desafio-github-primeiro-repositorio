@@ -1,1 +1,19 @@
-##LINK PARA DOWNLOAD DO GIT: https://git-scm.com/downloads
+## Alguns comandos do GIT 
+
+- GIT CLONE: Comando para baixar o código-fonte existente de um reposito.
+
+- GIT STATUS: Comando que nos dá todas as informações necessárias sobre o branch atual.
+
+- GIT ADD: Comando usado para incluir as alterações de um ou vários arquivos em nosso próximo commit.
+
+- GIT COMMIT: Comando usado para salvar nossas alterações. Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário.
+Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
+
+- GIT PUSH: Faz o upload dos seus commits no repositório. Comando usado apos o commit.
+
+- GIT PULL: Usado para obter atualizações de um repositório remoto.
+
+- GIT REVERT: Comando utilizado para desfazer alterações em nosso espaço de trabalho local ou remotamente.
+
+
+
