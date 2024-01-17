@@ -12,8 +12,9 @@ Repositório criado para o Desafio de projeto sobre Git/Github
 ## VANTAGENS DO GIT:
 
 
+- [Ramificação e fusão](https://git-scm.com/about/branching-and-merging)
 
-###  [- Ramificação e fusão]([Sobre - Git (git-scm.com)](https://git-scm.com/about/branching-and-merging))
+  
 ​	Computação de contexto sem atrito
 
 ​	Linhas de código baseadas em função
@@ -22,27 +23,43 @@ Repositório criado para o Desafio de projeto sobre Git/Github
 
 ​	Experimentação Descartável
 
-### [- Pequeno e rápido]([Sobre - Git (git-scm.com)](https://git-scm.com/about/small-and-fast))
-### [- Distribuído]([Sobre - Git (git-scm.com)](https://git-scm.com/about/distributed))
+
+- [Pequeno e rápido](https://git-scm.com/about/small-and-fast)
+  
+  
+- [Distribuído](https://git-scm.com/about/distributed)
+  
 ​	Vário backups 
+
 ​	Qualquer fluxo de trabalho
 
-### [- Garantia de dados]([Sobre - Git (git-scm.com)](https://git-scm.com/about/info-assurance))
-### [- Livre e de código aberto]([Sobre - Git (git-scm.com)](https://git-scm.com/about/free-and-open-source))
-### [- Marca registrada]([Sobre - Git (git-scm.com)](https://git-scm.com/about/trademark))
+
+- [Garantia de dados](https://git-scm.com/about/info-assurance)
+
+  
+- [Livre e de código aberto](https://git-scm.com/about/free-and-open-source)
+
+  
+- [Marca registrada](https://git-scm.com/about/trademark)
 
 
 
 
-
-###  
 
 ## Links úteis
 
 [Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[GIT]([Git (git-scm.com)](https://git-scm.com/))
+[GIT](https://git-scm.com/)
 
-[Comandos do GIT]([Comandos Git - Aprenda Git do básico ao avançado](https://comandosgit.github.io/))
+[Comandos do GIT](https://comandosgit.github.io/)
 
-[Download do Git](https://git-scm.com/downloads)
+[Download do GIT](https://git-scm.com/downloads)
+
+
+
+
+
+
+
+
